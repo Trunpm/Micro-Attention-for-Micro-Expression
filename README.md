@@ -9,6 +9,7 @@ This repository contains the Micro Attention module described in the paper "Micr
 
 # Citation
 If it helps to you, please cite:
+
 Micro-Attention for Micro-Expression recognition.
 Chongyang Wang, Min Peng, Tao Bi, Tong Chen.
 in arXiv, 2018
