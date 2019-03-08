@@ -10,7 +10,7 @@ This repository contains the Micro Attention module described in the paper
 "Micro-Attention for Micro-Expression recognition" (https://arxiv.org/abs/1811.02360). 
 
 Micro-Attention outperformed the method described in the paper 
-"From Macro to Micro Expression Recognition: Deep Learning on Small Datasets Using Transfer Learning.", 
+"From Macro to Micro Expression Recognition: Deep Learning on Small Datasets Using Transfer Learning", 
 the latter one won the first place in the Facial Micro-Expression Grand Challenge (MEGC2018) at FG 2018.
 
 
